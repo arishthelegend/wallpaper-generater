@@ -1,0 +1,5 @@
+{
+  "name": "AI Wallpaper Studio",
+  "description": "Generate stunning, unique phone wallpapers from a text prompt or an uploaded image using Google's Imagen 4 model. Create your perfect background in seconds.",
+  "requestFramePermissions": []
+}
